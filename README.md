@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjida Priya</h1>
+<img src="https://i.ibb.co.com/svyQfr57/github-banner.png" alt="website designer web developer wordpress expert modern website designer" border="0">
 <h3 align="center">Web Designer & Developer | Helping Businesses Build Modern, Responsive Websites | Passionate About Creative Design & Turning Ideas into Digital Reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sanjida&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sanjida" /> </p>
